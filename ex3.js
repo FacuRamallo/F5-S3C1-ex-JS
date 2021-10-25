@@ -4,4 +4,4 @@ function changeToCircle(id){
     sectionToChange.classList.toggle("formaCircular")
 }
 
-changeToCircle("ex3");
+//changeToCircle("ex3");
