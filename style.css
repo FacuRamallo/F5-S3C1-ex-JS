@@ -1,0 +1,11 @@
+@import url(/css/reset.css);
+@import url(/css/ex3.css);
+
+body{
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

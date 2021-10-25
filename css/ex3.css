@@ -1,0 +1,12 @@
+.formaRectangular{
+    height: 20vh;
+    width: 20vw;
+    background-color: red;
+}
+
+.formaCircular{
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    background-color: green;
+}
