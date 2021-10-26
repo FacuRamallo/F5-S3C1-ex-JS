@@ -1,0 +1,12 @@
+.cardbox{
+    height: 200px;
+    width: 200px;
+    border-width: 3px;
+    border-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+img.ex6{
+    height: 80%;
+}
